@@ -8,3 +8,10 @@
 - 🌱 I’m currently learning PostgreSQL.
 - 👯 I’m looking to collaborate on github.
 - 💬 Ask me about data visualization and text analysis.
+
+## Stats
+[![daniaalnadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyarasid&show_icons=true&theme=dracula&count_private=true)]
+
+
+## Languages 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyarasid&layout=compact&hide=css,html,handlebars)]
