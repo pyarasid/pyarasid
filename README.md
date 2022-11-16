@@ -10,7 +10,7 @@
 - 💬 Ask me about data visualization and text analysis.
 
 ## Stats
-[![daniaalnadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyarasid&show_icons=true&theme=dracula&count_private=true)]
+[![pyarasid's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyarasid&show_icons=true&theme=dracula&count_private=true)]
 
 
 ## Languages 
