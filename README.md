@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-Siddharth%20Dixit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddharth-dixit-b02bbb34)](https://www.linkedin.com/in/siddharth-dixit-b02bbb34)
 
 - 🔭 I’m currently working on quantitative text analysis.
-- 🌱 I’m currently learning PostgreSQL.
+- 🌱 I’m currently learning Docker.
 - 👯 I’m looking to collaborate on github.
 - 💬 Ask me about data visualization and text analysis.
 
